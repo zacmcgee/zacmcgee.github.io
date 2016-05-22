@@ -4,7 +4,6 @@ email: zmcgee@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   I am a PhD student in the Department of Government at the University of Texas at Austin.
   My research interests include the U.S. Congress, political parties, policy process, and elections.
-  I received my B.S. in Political Science from Towson University in 2015.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://zacharymcgee.net" # the base hostname & protocol for your site
 twitter_username: zacmcgee
