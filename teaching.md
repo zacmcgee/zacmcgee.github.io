@@ -7,6 +7,6 @@ I have been fortunate enough to consistently be assigned Teaching Assistantships
 
 **Teaching Assistant** <br><br>
 American Government<br>
-* Fall 2015 - Lectured on Civil Rights
-* Spring 2016 - Lectured on Federalism
-* Summer 2016
+1. Fall 2015 - Lectured on Civil Rights
+2. Spring 2016 - Lectured on Federalism
+3. Summer 2016
