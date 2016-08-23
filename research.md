@@ -5,6 +5,9 @@ permalink: /research/
 ---
 Requests for drafts of working papers are welcome. Please feel free to email me your request.
 
+**Forthcoming** <br><br>
+1. Jones, Bryan D., and Zachary A. McGee. “Behavioral Approaches to Agenda Setting.” In *The Oxford Handbook of Behavioral Political Science.*, eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.
+
 **Working Papers** <br><br>
 1. Intraparty Coalitions in the U.S. House of Representatives <br>
 2. A Whisper and a Bang: A Study of Social Movements and Punctuated Equilibrium Theory (with Hadill Calderon and Maraam Dwidar)
