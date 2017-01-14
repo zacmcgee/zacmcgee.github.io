@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<img style="width=500px;height=750px;float:left;padding:15px;"
+src="/images/photo.png" alt="" width="200" height="300">
 
 I am a Ph.D. student in the [Department of Government](http://www.utexas.edu/cola/government/) at the University of Texas at Austin. I received my B.S. in Political Science from [Towson University](http://www.towson.edu) in 2015. My research interests include the U.S. Congress, political parties, policy process, agenda setting, social network analysis, and elections. I am also a Graduate Research Fellow with the [Policy Agendas Project](http://www.comparativeagendas.net), which  actively maintains data series coded consistently to allow for comparisons over time.
 
