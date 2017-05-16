@@ -5,8 +5,9 @@ permalink: /research/
 ---
 Requests for drafts of working papers are welcome. Please feel free to email me your request.
 
-**Forthcoming** <br><br>
-1. Jones, Bryan D., and Zachary A. McGee. “Behavioral Approaches to Agenda Setting.” In *The Oxford Handbook of Behavioral Political Science.*, eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.
+**In Press** <br><br>
+1. Jones, Bryan D., and **Zachary A. McGee**. “Behavioral Approaches to Agenda Setting.” In *The Oxford Handbook of Behavioral Political Science.*, eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.
+2. Jones, Bryan D., **Zachary A. McGee**, and Brooke N. Shannon. “Bounded Rationality in Political Science.” In *Handbook on Bounded Rationality*, eds. Riccardo Viale and Konstantinos Katzikopoulos. New York: Routledge.
 
 **Working Papers** <br><br>
 1. Keeping Your Friends Close: A Study of Punishment and Intraparty Insurgency <br>
