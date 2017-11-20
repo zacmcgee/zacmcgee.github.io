@@ -3,12 +3,13 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I have been fortunate enough to consistently be assigned Teaching Assistantships since entering the UT Austin graduate program in Fall 2015. My experience is noted below. In the future, I hope to lead discussion sections and teach my own course.
+Teaching is an important part of scholarly life. I have been fortunate enough to consistently assist in teaching since arriving at the University of Texas at Austin. In the future, I will teach my own courses and post the syllabi on this page.
 
 **Head Teaching Assistant** <br>
-*American Government*<br>
+*American Government (Online)*<br>
 1. Fall 2016 <br>
 2. Spring 2017 <br>
+3. Fall 2017 <br>
 
 **Teaching Assistant** <br>
 *American Government*<br>
