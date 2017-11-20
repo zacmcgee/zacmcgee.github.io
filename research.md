@@ -12,4 +12,4 @@ Requests for drafts of working papers are welcome. Please feel free to email me 
 **Working Papers** <br><br>
 1. Keeping Your Friends Close: How the House Freedom Caucus Organized for Survival *(Under Review)* <br>
 2. The Power of the Party: Conflict Expansion and the Agenda Diversity of Interest Groups (with E.J. Fagan and Herschel F. Thomas III)
-3. Gift Travel in the U.S. Congress (with Philip R. Moniz)
+3. Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(Under Review)*
