@@ -10,6 +10,7 @@ Requests for drafts of working papers are welcome. Please feel free to email me 
 2. Jones, Bryan D., **Zachary A. McGee**, and Brooke N. Shannon. “Bounded Rationality in Political Science.” In *Handbook on Bounded Rationality*, eds. Riccardo Viale and Konstantinos Katzikopoulos. New York: Routledge.
 
 **Working Papers** <br><br>
-1. Keeping Your Friends Close: How the House Freedom Caucus Organized for Survival *(Under Review)* <br>
-2. The Power of the Party: Conflict Expansion and the Agenda Diversity of Interest Groups (with E.J. Fagan and Herschel F. Thomas III)
-3. Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(Under Review)*
+1. Keeping Your Friends Close: How the House Freedom Caucus Organized for Survival <br>
+2. The Power of the Party: Conflict Expansion and the Agenda Diversity of Interest Groups (with E.J. Fagan and Herschel F. Thomas III) *(Under Review)*
+3. Gift Travel in the U.S. House of Representatives (with Philip R. Moniz)
+4. The Persistence and Significance of Subsystems in Policy Process Research (with Bryan D. Jones)
