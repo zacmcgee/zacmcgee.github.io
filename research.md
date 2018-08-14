@@ -10,6 +10,6 @@ Requests for drafts of working papers are welcome. Please feel free to email me 
 <br><br>
 **Working Papers** <br>
 Differential Electoral Coordination of House Republican Intraparty Organizations *(Under Review)*<br>
+The Persistence and Significance of Subsystems in Policy Process Research (with Bryan D. Jones) *(Under Review)*<br>
 The Power of the Party: Conflict Expansion and the Agenda Diversity of Interest Groups (with E.J. Fagan and Herschel F. Thomas III)<br>
 Gift Travel in the U.S. House of Representatives (with Philip R. Moniz)<br>
-The Persistence and Significance of Subsystems in Policy Process Research (with Bryan D. Jones)<br>
