@@ -14,6 +14,7 @@ Teaching is an important part of scholarly life. I have been fortunate enough to
 **Teaching Assistant** <br>
 *Congressional Elections*
 1. Fall 2018 <br>
+
 *American Government*<br>
 1. Summer 2016 <br>
 2. Spring 2016 - Lectured on Federalism <br>
