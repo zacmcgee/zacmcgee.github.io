@@ -12,7 +12,7 @@ Teaching is an important part of scholarly life. I have been fortunate enough to
 3. Fall 2016 <br>
 
 **Teaching Assistant** <br>
-*Congressional Elections*<br>
+*Congressional Elections*
 1. Fall 2018 <br>
 *American Government*<br>
 1. Summer 2016 <br>
