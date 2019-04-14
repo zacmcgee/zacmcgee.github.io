@@ -7,7 +7,7 @@ Requests for drafts of working papers are welcome. Please feel free to email me 
 
 **Publications** <br>
 **McGee, Zachary A.** and Bryan D. Jones. “Reconceptualizing the Policy Subsystem: Integration with Complexity Theory and Social Network
-Analysis.” Policy Studies Journal, Forthcoming. <br>
+Analysis.” Policy Studies Journal, Forthcoming. <br><br>
 [Jones, Bryan D. and **Zachary A. McGee**. “Agenda Setting and Bounded Rationality.” In *The Oxford Handbook of Behavioral Political Science.*, eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190634131.001.0001/oxfordhb-9780190634131-e-19)
 <br><br>
 **Working Papers** <br>
