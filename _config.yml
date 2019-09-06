@@ -6,7 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   My research interests include the U.S. Congress, political parties, intraparty organizations, agenda setting, the policy process, and social network analysis.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://zacharymcgee.net" # the base hostname & protocol for your site
-twitter_username:
+googlescholar: "https://scholar.google.com/citations?user=wlRQLtwAAAAJ&hl=en"
+orcid: "https://orcid.org/0000-0002-2462-0269"
 github_username:  zacmcgee
 permalink: /blog/:year/:month/:title.html
 gems:
