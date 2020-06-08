@@ -2,8 +2,8 @@
 title: Zachary A. McGee
 email: zmcgee@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a PhD student in the Department of Government at the University of Texas at Austin.
-  My research interests include the U.S. Congress, political parties, intraparty organizations, agenda setting, the policy process, and social network analysis.
+  I am a Ph.D. Candidate in the Department of Government at the University of Texas at Austin.
+  My research interests include the U.S. Congress, political parties, intraparty factions, agenda setting, the policy process, and social network analysis.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://zacharymcgee.net" # the base hostname & protocol for your site
 googlescholar: "https://scholar.google.com/citations?user=wlRQLtwAAAAJ&hl=en"
