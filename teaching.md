@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 Teaching is an important part of scholarly life and often the most effective way for scholars to connect with interested students and share information about the topic they care deeply about. I have experience both teaching my own classes and assisting in the instruction of a variety of courses taught both traditionally and online. In addition to my work as an instuctor and teaching assistant I have also created the instructor's manual for a college-level textbook on the United States Congress.
 
-**Instructor of Record**<br>
+###Instructor of Record###<br>
 *Introduction to American Government*<br>
 1. Fall 2019 <br>
 
