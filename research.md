@@ -5,23 +5,30 @@ permalink: /research/
 ---
 My research agenda is broad within the American politics and public policy subfields of political science. My main interests center on the role of political parties, especially within the U.S. Congress. Below are links to published works of mine as well as replication materials (where appropriate). My [Google Scholar page](https://scholar.google.com/citations?user=wlRQLtwAAAAJ&hl=en) may also serve as a useful reference for the impact of my work. Requests for drafts of working papers are welcome. Please feel free to email me your request.
 
-**Peer-Reviewed Publications** <br>
+### Dissertation <br>
+As noted on the homepage of my website, my dissertation addresses the role of intraparty factions in Congress. The central concern I seek to address is the extent to which intraparty factions set the congressional agenda. I collect an original data set of over 15,000 policy agenda items of intraparty factions and argue that intraparty factions provide a vital avenue for rank-and-file members to extract policy concessions from party leaders in a highly centralized power structure by utilizing direct negotiations with leadership, position taking, and threat making. The results demonstrate influence from intraparty factions and are consistent with an asymmetric view of U.S. political parties. Republican intraparty factions battle over a small set of ideologically charged issues. Democratic factions have more diverse agendas and represent the many different constituencies within the Democratic Party's “big tent” coalition.
+
+While my job market materials present this question and my approach to it in great detail, it is only a subset of my broader theory and goal for this project. Upon completion of my dissertation, this project will be developed into a booklength argument linking the functions of intraparty factions to the goals of members of Congress (i.e., reelection, influence in their chamber, and good public policy). These linkages provide an opportunity to more precisely define and understand the many roles these factions play in aiding rank-and-file members of Congress who serve in an institution that is dominated by party leaders. It will seek to build on the leading scholarship in this area and address more broadly the effects that joining an intraparty faction can have on both its members and the institution.
+
+### Peer-Reviewed Publications <br>
 Fagan, E.J., **Zachary A. McGee**, and Herschel F. Thomas III. 2019. "The Power of the Party: Conflict Expansion and the Agenda Diversity of Interest Groups." *Political Research Quarterly.* DOI: [10.1177/1065912919867142](https://journals.sagepub.com/doi/full/10.1177/1065912919867142) [Replication.](/replication/fagan_mcgee_thomas_prq19.zip)
+*To what extent do political parties have an effect on the policy-related activity of interest groups? Drawing from ideas of conflict expansion and the structure of extended party networks, we argue that political parties are able to pull interest groups into more policy conflicts than they otherwise would be involved in. We posit that parties are able to draw interest groups to be active outside of established issue niches. We suggest that several mechanisms—shared partisan electoral incentives, reciprocity, identification with the means, and cue-taking behavior—lead groups to participate in more diverse political conflicts. By linking data on interest group bill positions and the policy content of legislation, we generate a novel measure of 158 interest groups’ alignment with political parties. We find that the more an interest group is ideologically aligned with a political party, the more diverse their issue agenda becomes.*
 
 **McGee, Zachary A.** and Bryan D. Jones. 2019. “Reconceptualizing the Policy Subsystem: Integration with Complexity Theory and Social Network Analysis.” *Policy Studies Journal.* 7(S1): S138–58. [DOI: 10.1111/psj.12319](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12319) <br><br>
+*The concept of the policy subsystem is an essential building block for several of the basic frameworks of policy process studies. Over time issues have become more complex, crossing subsystem boundaries, and so subsystems have escalated in their complexity as well. It is increasingly insufficient to study just one policy subsystem and so scholars have turned to studying boundary‐spanning regimes or policy networks. In this essay, we review the major contributions to developing the concept of a policy subsystem and trace its evolution into broader conceptualizations like issue and policy networks. We argue that the future for theories of the policy process is in more explicit integration of complexity theory and more effective modeling of subsystems with the utilization of social network analysis. In closing, we discuss the enduring nature of the concept of policy subsystems and highlight studies that continue using it in innovative ways.*
 
-**Edited Books** <br>
-Theriault, Sean M., Alison W. Craig, Rebecca Eissler, **Zachary A. McGee**, Annelise Russell, and Michelle Whyman. Forthcoming. *Current Debates in Congress.* New York: Oxford University Press.<br><br>
-
-**Chapters in Edited Volumes** <br>
+### Chapters in Edited Volumes <br>
 **McGee, Zachary  A.**, Brooke N. Shannon, and Bryan D. Jones. 2019. “Bounded Rationality in Political Science.” In Routledge Handbook on Bounded Rationality, eds. Riccardo Viale and Konstantinos Katzikopoulos. New York: Routledge. DOI: *Forthcoming.*<br>
 
 Shannon, Brooke N., **Zachary  A.  McGee**, and Bryan D. Jones. 2019. “Bounded Rationality and Cognitive Limits in Political Decision Making.” In *Oxford Research Encyclopedia of Politics*. New York: Oxford University Press. [DOI: 10.1093/acrefore/9780190228637.013.961](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-961)<br>
 
 Jones, Bryan D. and **Zachary A. McGee**. 2018. “Agenda Setting and Bounded Rationality.” In *The Oxford Handbook of Behavioral Political Science.* eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.[DOI: 10.1093/oxfordhb/9780190634131.013.19](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190634131.001.0001/oxfordhb-9780190634131-e-19)<br><br>
 
-**Working Papers** <br>
-Differential Electoral Coordination of House Republican Intraparty Organizations *(In Progress)*<br>
+Each of these chapters takes a different view of how conceptualizing individual decision-making as a boundedly rational, instead of comprehensively rational, process impacts our understanding of political agenda setting. Each chapter builds on the robust literature in public policy that is established explicitly on this approach. These chapters represent my approach to agenda setting in other research I have conducted and will continue to address.
+
+### Working Papers <br>
+Differential Electoral Coordination of House Republican Intraparty Organizations *(Under Review)*<br>
+Problem Solving and the Demand for Expert Information in Congress (with E.J. Fagan) *(Under Review)*<br>
 Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(In Progress)*<br>
-The Demand for Information in Congress: Agenda Setting and the Congressional Research Service (with E.J. Fagan) *(In Progress)*<br>
-Congress and the Federalist Society (with Christine Bird) *(In Progress)*
+Congress and the Federalist Society (with Christine C. Bird) *(In Progress)*
+Partisanship in Congressional Travels Abroad (with Sean M. Theriault)
