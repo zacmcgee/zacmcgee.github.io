@@ -31,4 +31,4 @@ Differential Electoral Coordination of House Republican Intraparty Organizations
 Problem Solving and the Demand for Expert Information in Congress (with E.J. Fagan) *(Under Review)*<br>
 Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(In Progress)*<br>
 Congress and the Federalist Society (with Christine C. Bird) *(In Progress)*<br>
-Partisanship in Congressional Travels Abroad (with Sean M. Theriault)
+Partisanship in Congressional Travels Abroad (with Sean M. Theriault) *(In Progress)*
