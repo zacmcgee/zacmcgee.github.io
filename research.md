@@ -30,8 +30,9 @@ Shannon, Brooke N., **Zachary  A.  McGee**, and Bryan D. Jones. 2019. “Bounded
 Jones, Bryan D. and **Zachary A. McGee**. 2018. “Agenda Setting and Bounded Rationality.” In *The Oxford Handbook of Behavioral Political Science.* eds. Alex Mintz and Lesley Terris. Oxford: Oxford University Press.[DOI: 10.1093/oxfordhb/9780190634131.013.19](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190634131.001.0001/oxfordhb-9780190634131-e-19)<br><br>
 
 ### Working Papers <br>
-Differential Electoral Coordination of House Republican Intraparty Organizations *(In Progress)*<br>
-Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(Under Review)*<br>
-Congress and the Federalist Society (with Christine C. Bird) *(In Progress)*<br>
+Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) *(Revise & Resubmit)*<br>
+The Impact of Federalist Society Affiliation on Judicial Nominations (with Christine C. Bird) *(Under Review)*<br>
+Predicting Intraparty Faction Membership Decisions in the U.S. House of Representatives *(In Progress)*<br>
 Partisanship in Congressional Travels Abroad (with Sean M. Theriault) *(In Progress)*<br>
-Congressional Distribution of Power and the Reach of the Federal Government, 1865-1946 (with Derek A. Epp and Sean M. Theriault) *(In Progress)*
+Congressional Distribution of Power and the Reach of the Federal Government, 1865-1946 (with Derek A. Epp and Sean M. Theriault) *(In Progress)*<br>
+Differential Electoral Coordination of House Republican Intraparty Organizations *(In Progress)*
