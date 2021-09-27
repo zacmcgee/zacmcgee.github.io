@@ -34,7 +34,8 @@ Jones, Bryan D. and **Zachary A. McGee**. 2018. “Agenda Setting and Bounded Ra
 
 ### Working Papers <br>
 Partisanship in Congressional Travels Abroad (with Sean M. Theriault) *(Revise and Resubmit)*<br>
-The Impact of Federalist Society Affiliation on Judicial Nominations (with Christine C. Bird) *(Under Review)*<br>
+A New Judicial Nominations Process: The Impact of Senate Procedural Reforms and the Federalist Society on the Confirmation Prospects of Judicial Nominees (with Christine C. Bird) *(Revise and Resubmit)*<br>
 Predicting Intraparty Faction Membership Decisions in the U.S. House of Representatives *(In Progress)*<br>
 Congressional Distribution of Power and the Reach of the Federal Government, 1865-1946 (with Derek A. Epp and Sean M. Theriault) *(In Progress)*<br>
+The Voting Behavior of the Federalist Society Senators in Federal Judicial Nominations (with Christine C. Bird and Jonathan M. King) *(In Progress)*<br>
 Differential Electoral Coordination of House Republican Intraparty Organizations *(In Progress)*
