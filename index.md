@@ -12,3 +12,4 @@ The analyses reveal evidence of factions influencing the congressional agenda as
 
 My research has been published in *Legislative Studies Quarterly*, *Political Research Quarterly*, *Policy Studies Journal*, and several edited volumes. Current projects, including working papers, can be found [here](/research/). Requests for drafts of working papers are welcome. To request a draft, please feel free to email me. If you would like a copy of my CV, it can be found [here](/McGee_CV.pdf).
 
+Create your own academic website like mine with [this step-by-step guide](/MayCollege22.pdf).
