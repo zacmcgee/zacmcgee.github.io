@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<img style="width=209px;height=375px;float:left;padding:15px;"
-src="/images/photo.png" alt="" width="209" height="375">
+ 
 
 Welcome to my website. I am an Assistant Professor in the [Department of Government](https://www.stlawu.edu/offices/government) at St. Lawrence University in Canton, NY. I received my Ph.D. in Government from the University of Texas at Austin in 2021. My research agenda centers on American political institutions, especially the U.S. Congress and political parties, as well as on the decision-making processes of elites within the policy process. I am also a Faculty Associate with the U.S. Chapter of the [Comparative Agendas Project](http://www.comparativeagendas.net/us), which actively maintains data series coded consistently for policy content to allow for comparisons over time.
 
