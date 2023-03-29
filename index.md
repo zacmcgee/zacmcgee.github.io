@@ -13,3 +13,4 @@ We explore the effects of physical and regulatory risks from biodiversity loss o
 <h2><a href="https://pages.stern.nyu.edu/~jstroebe/" target="_blank">Johannes Stroebel</a></h2><p>NYU Stern, NBER, and CEPR</p>
 <h2>Xuran Zeng</a></h2><p>NYU Stern</p>
 
+<strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April 1, 2023). Available at <a target="_blank" href="https://pages.stern.nyu.edu/~jstroebe/">NBER</a>
