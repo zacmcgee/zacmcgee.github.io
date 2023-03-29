@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloadable Data
-permalink: /Downloads/
+permalink: /teaching/
 ---
 
 
