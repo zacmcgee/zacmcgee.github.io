@@ -1,17 +1,14 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Downloadable Data
+permalink: /Downloads/
 ---
-Teaching is not only a critical part of scholarly life it is also an amazing opportunity to connect with students about topics I feel passionately about. I have experience both teaching my own classes and assisting in the instruction of a variety of courses taught both traditionally and online. In addition to my work as an instructor and teaching assistant I have also created the instructor's manual for a college-level textbook on the United States Congress. You can find links to my syllabi below.
 
-### Instructor of Record<br>
-#### Introduction to American Politics<br>
-I approach my Introduction to American Politics course by explicitly placing the historical development of the United States political system at its heart. The course starts with the first African slaves brought to the colonies and traces the political develop of the country through the most recent developments in our political institutions such as centralized leadership in Congress and the Imperial Presidency. I am a firm believer in the idea that history can tell us much about our current political situation. While I am certainly not a historian or even an APD scholar, I personally find history to be critical to my own understanding of politics within the United States and around the world.
 
-In addition to my lectures, I also regularly assign outside readings from the popular press that students discuss in small groups. These articles are meant to stimulate discussion around big ideas in American politics today or forced students to debate two sides of a contested issue. For example, one week students wrestle with whether or not the United States Senate should even exist; another week they debate the role of federal regulations in protecting or harming Americans and their impact on the economy. At all times I strive to present an objective view of politics. As someone with a longstanding interest in American politics, I know it to be true that most people want to make up their own minds. Presenting students with diverse perspectives and facts will help them shape their own opinions and take ownership over different ideas about what it means to be a citizen in the United States today. Ideally, these developments will also push them to become more civically engaged too.
-
-Before coming to St. Lawrence, where I am currently teaching two sections of this course, I taught this course to about 100 students at the University of Texas at Austin. Following the conclusion of that course I received a course evaluation of 4.4/5.0. Many students remarked that they felt they genuinely learned something new about American politics from my course even though they did not care for politics, and many were impressed by my commitment to neutrality. While research tends to be what drives our discipline, at the end of the day I like to talk about politics with those who are interested. Not only is it of interest to me, but it is absolutely critical for the proper functioning of American democratic institutions. Teaching is a crucial component of our jobs as academics and one that I take very seriously and enjoy immensely. This course's syllabus is available [here](/syllabi/GOVT_103_01.pdf).
+### Aggregate Risks<br>
+#### Daily NYT Biodiversity Risk Index<br>
+ [here](/syllabi/GOVT_103_01.pdf).
+<a href="/data/nyt_biodiversity_risk_index.dta" target="_blank"><strong>Download:</strong> Monthly Topic Attention (Theta).csv</a>(1.5MB)
 
 #### The United States Congress<br>
 My course on the United States Congress centers on two concepts I believe are critical for understanding the institution. First, that Congress is a social institution and it is made up of people. The interactions members have with another are not just purely political, cold, and calculating (although of course sometimes they are) and those interactions have consequences. Members’ relationships with one another lead to complex webs of influence that need to be understood in a social context; it is not just the political, financial, and ideological factors that shape who members are and what they choose to do. Second, Congress is a dynamic institution and the Congress we see today is the result of decisions made by members past. One of the most fascinating aspects of Congress is that the U.S. Constitution explicitly delegates to members the power to “determine the Rules of its Proceedings.” This excerpt from Article I Section 5 signals that the possibilities for Congress’ institutional development are boundless, though we can trace its development back to 1789 and learn much about the institution we see today.
