@@ -1,9 +1,9 @@
 # Site settings
 title: Zachary A. McGee
-email: zmcgee@stlawu.edu
+email: mcgee1@kenyon.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am an Assistant Professor in the Department of Government at St. Lawrence University.
-  My research and teaching interests include American political institutions, with a focus on the U.S. Congress, public policy, with a focus on decision-making and network analysis, and political parties, with a focus on intraparty factions.
+  I am an Assistant Professor in the Department of Political Science at Kenyon College.
+  My research and teaching center on American political institutions with an emphasis on Congress, political parties, interest groups, and the policy process.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://zacharymcgee.net" # the base hostname & protocol for your site
 googlescholar: https://scholar.google.com/citations?user=wlRQLtwAAAAJ&hl=en
