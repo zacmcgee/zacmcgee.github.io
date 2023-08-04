@@ -2,7 +2,7 @@
 layout: default
 ---
 <img style="width=209px;height=375px;float:left;padding:15px;"
-src="/images/mcgee_headshot_prim_trimmed.png" alt="" width="209" height="375">
+src="/images/mcgee_headshot_prim_trimmed.jpg" alt="" width="209" height="375">
 
 Welcome to my website! My name is Zachary McGee and I am an Assistant Professor in the [Department of Political Science](https://www.kenyon.edu/academics/departments-and-majors/political-science/) at Kenyon College in Gambier, OH. Originally from the Appalachian region of Maryland, I received my B.S. in Political Science from Towson University in 2015 and my Ph.D. in Government from the University of Texas at Austin in 2021. My research and teaching interests center on American political institutions, especially the U.S. Congress and political parties, as well as on the decision-making processes of elites within the policy process. My research thus far has traced the influence of intraparty factions in the polarized United States Congress, explored the influence political parties have on interest groups' policy agendas, probed the travel behavior of members of Congress, and identified the creeping and systematic influence of the conservative judicial movement on both Congress and the federal courts.
 
