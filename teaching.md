@@ -8,7 +8,7 @@ Teaching is not only a critical part of scholarly life it is also an amazing opp
 ### Instructor of Record<br>
 #### Campaigns and Elections<br>
 *“...No amount of power can withstand the hatred of the many.”*
-***– Marcus Tullius Cicero, Roman Statesman (44 B.C.)
+– Marcus Tullius Cicero, Roman Statesman (44 B.C.)
 
 Experiments with governments led by the people have roots far longer than we will ever know. Athens, Rome, Florence, the list of societies that have known some form of governance by the people could go on far longer than one would ever want to draft. Yet, even though each state that experimented with governance by the people did so in slightly different ways they can all be united by some form of the truism from Cicero printed above. If unified, organized, excited, and determined the people can always impose their will on tyrants, despots, or oligarchs. Many of the founding fathers of the United States studied republics past closely and hoped their new nation would stand as one of the great republics in human history. The U.S. Constitution aptly begins with the phrase “we the people” as a nod toward that ambition. But, how success- ful has the United States been as a republic? Are members of Congress today effectively held accountable by the frequent elections they face? What does it take to win a congressional election in 2024? How are presidential campaigns different from congressional campaigns and why? What changes might make our republic better? We will answer each of these questions and more throughout the span of this course.
 
