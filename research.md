@@ -47,4 +47,4 @@ The Organizational Aﬀiliate Network in American Politics (book project with Ch
 Congressional Distribution of Power and the Reach of the Federal Government, 1865-1946 (with Sean M. Theriault) <br>
 Who Else Is Going?: Shared Gift Travel in the U.S. House of Representatives (with Philip R. Moniz) <br>
 The Federalist Society’s Agenda and Priorities in American Politics (with Christine C. Bird) <br>
-Court Curbing Bills and Legislative Effectiveness in the U.S. Congress (with Christine C. Bird <br>)
+Court Curbing Bills and Legislative Effectiveness in the U.S. Congress (with Christine C. Bird) <br>
